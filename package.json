@@ -5,7 +5,7 @@
   "main": "assets/javascripts/bootstrap.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/twbs/bootstrap-sass"
+    "url": "git://github.com/DeloitteDigitalUK/DDBootstrap"
   },
   "keywords": [
     "bootstrap",
@@ -13,14 +13,9 @@
     "css"
   ],
   "contributors": [
-    "Thomas McDonald",
-    "Tristan Harward",
-    "Peter Gumeson",
-    "Gleb Mazovetskiy"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap-sass/issues"
   },
   "devDependencies": {
     "node-sass": "~1.0",
